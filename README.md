@@ -4,7 +4,7 @@ Materials for the Middle School Coding Climate Change course
 ## Prerequisites
 
 - Jupyter notebook
-- PIL (Python Image Library)
-- MatPlotLib
+- NodeJS / npm
+- <a href='https://github.com/n-riesco/ijavascript'>ijavascript</a>, the JavaScript kernel for Jupyter notebooks
 
-```pip3 install jupyter pillow matplotlib```
+```npm install fast-csv canvas```
